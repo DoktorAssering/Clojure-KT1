@@ -4,8 +4,8 @@
     (println "\nThere is a list of commands: ")
     (println "\n(start n m) --- n - number MIN in range, m - number MAX in range\n")
     (println "\n(guess-my-number) --- The program will offer one number randomly generated from your radius of numbers from min to max\n")
-    (println "\n(smaller) --- A hint for the program to bring it closer to the desired number. Can be increased to +6 to the original number.\n")
-    (println "\n(bigger) --- A hint for the program to bring it closer to the desired number. Can be reduced to -6 to the original number.\n")
+    (println "\n(smaller) --- A hint for the program to bring it closer to the desired number. Can be reduced to -6 to the original number.\n")
+    (println "\n(bigger) --- A hint for the program to bring it closer to the desired number. Can be increased to +6 to the original number.\n")
     "----------------------------"))
 
 (defn start [n m]
