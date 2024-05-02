@@ -198,3 +198,5 @@ The program guessed the number:  94
 And again programs show their advantage over humans!
 
 "----------------------------"
+
+---
